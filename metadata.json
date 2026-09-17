@@ -1,0 +1,8 @@
+{
+  "name": "Remix Calculadora de Apostas NFL (+EV).1",
+  "description": "Estudo completo dos jogos da NFL com Top 10 Melhores Oportunidades do dia descobertas por IA, projeção matemática de placar, alertas de clima, ritmo de jogo e calculadora de valor esperado (+EV) para player props, spreads e totais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
